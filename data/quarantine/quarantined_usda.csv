@@ -1,0 +1,137 @@
+producer_id,producer_name,region,livestock_type,head_count,reporting_year,program_intervention_adopted,quarantine_reason
+P0004,Farm Operation 4,Northeast,Beef Cattle,-44,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0004,Farm Operation 4,Northeast,Beef Cattle,-41,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0005,Farm Operation 5,,Swine,2504,2023,Yes,Missing Critical Data Element: Region
+P0005,Farm Operation 5,,Swine,2465,2024,Yes,Missing Critical Data Element: Region
+P0018,Farm Operation 18,South,Beef Cattle,-84,2023,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0018,Farm Operation 18,South,Beef Cattle,-88,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0029,Farm Operation 29,Midwest,Dairy Cattle,-85,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0029,Farm Operation 29,Midwest,Dairy Cattle,-85,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0033,Farm Operation 33,,Swine,2367,2023,Planned,Missing Critical Data Element: Region
+P0033,Farm Operation 33,,Swine,2595,2024,Yes,Missing Critical Data Element: Region
+P0034,Farm Operation 34,,Beef Cattle,3958,2023,Planned,Missing Critical Data Element: Region
+P0034,Farm Operation 34,,Beef Cattle,4007,2024,Yes,Missing Critical Data Element: Region
+P0054,Farm Operation 54,,Swine,723,2023,Planned,Missing Critical Data Element: Region
+P0054,Farm Operation 54,,Swine,701,2024,Yes,Missing Critical Data Element: Region
+P0060,Farm Operation 60,West,Dairy Cattle,-54,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0060,Farm Operation 60,West,Dairy Cattle,-53,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0065,Farm Operation 65,,Dairy Cattle,545,2023,Yes,Missing Critical Data Element: Region
+P0065,Farm Operation 65,,Dairy Cattle,555,2024,Yes,Missing Critical Data Element: Region
+P0070,Farm Operation 70,Northeast,Dairy Cattle,-55,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0070,Farm Operation 70,Northeast,Dairy Cattle,-58,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0117,Farm Operation 117,,Beef Cattle,1354,2023,Yes,Missing Critical Data Element: Region
+P0117,Farm Operation 117,,Beef Cattle,1257,2024,Yes,Missing Critical Data Element: Region
+P0119,Farm Operation 119,South,Dairy Cattle,-32,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0119,Farm Operation 119,South,Dairy Cattle,-33,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0123,Farm Operation 123,,Dairy Cattle,3325,2023,Planned,Missing Critical Data Element: Region
+P0123,Farm Operation 123,,Dairy Cattle,3655,2024,Yes,Missing Critical Data Element: Region
+P0124,Farm Operation 124,South,Beef Cattle,-50,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0124,Farm Operation 124,South,Beef Cattle,-53,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0150,Farm Operation 150,South,Dairy Cattle,-63,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0150,Farm Operation 150,South,Dairy Cattle,-65,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0159,Farm Operation 159,Midwest,Beef Cattle,-82,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0159,Farm Operation 159,Midwest,Beef Cattle,-85,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0169,Farm Operation 169,Midwest,Beef Cattle,-14,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0169,Farm Operation 169,Midwest,Beef Cattle,-14,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0199,Farm Operation 199,Midwest,Poultry,-84,2023,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0199,Farm Operation 199,Midwest,Poultry,-84,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0202,Farm Operation 202,,Poultry,2781,2023,Planned,Missing Critical Data Element: Region
+P0202,Farm Operation 202,,Poultry,3047,2024,Yes,Missing Critical Data Element: Region
+P0204,Farm Operation 204,West,Beef Cattle,-36,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0204,Farm Operation 204,West,Beef Cattle,-38,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0208,Farm Operation 208,West,Swine,-14,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0208,Farm Operation 208,West,Swine,-13,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0210,Farm Operation 210,Northeast,Poultry,-68,2023,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0210,Farm Operation 210,Northeast,Poultry,-67,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0214,Farm Operation 214,,Poultry,3208,2023,No,Missing Critical Data Element: Region
+P0214,Farm Operation 214,,Poultry,3202,2024,No,Missing Critical Data Element: Region
+P0226,Farm Operation 226,,Poultry,2530,2023,No,Missing Critical Data Element: Region
+P0226,Farm Operation 226,,Poultry,2302,2024,No,Missing Critical Data Element: Region
+P0230,Farm Operation 230,,Beef Cattle,1474,2023,Yes,Missing Critical Data Element: Region
+P0230,Farm Operation 230,,Beef Cattle,1331,2024,Yes,Missing Critical Data Element: Region
+P0239,Farm Operation 239,Midwest,Poultry,-14,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0239,Farm Operation 239,Midwest,Poultry,-14,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0244,Farm Operation 244,,Swine,-53,2023,Planned,Missing Critical Data Element: Region | Invalid Integrity Check: Negative/Zero Head Count
+P0244,Farm Operation 244,,Swine,-56,2024,Yes,Missing Critical Data Element: Region | Invalid Integrity Check: Negative/Zero Head Count
+P0251,Farm Operation 251,,Beef Cattle,2051,2023,Yes,Missing Critical Data Element: Region
+P0251,Farm Operation 251,,Beef Cattle,2023,2024,Yes,Missing Critical Data Element: Region
+P0259,Farm Operation 259,Midwest,Dairy Cattle,-15,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0259,Farm Operation 259,Midwest,Dairy Cattle,-15,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0264,Farm Operation 264,,Poultry,-78,2023,No,Missing Critical Data Element: Region | Invalid Integrity Check: Negative/Zero Head Count
+P0264,Farm Operation 264,,Poultry,-80,2024,No,Missing Critical Data Element: Region | Invalid Integrity Check: Negative/Zero Head Count
+P0267,Farm Operation 267,Midwest,Dairy Cattle,-75,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0267,Farm Operation 267,Midwest,Dairy Cattle,-79,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0276,Farm Operation 276,Northeast,Dairy Cattle,-33,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0276,Farm Operation 276,Northeast,Dairy Cattle,-35,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0281,Farm Operation 281,,Poultry,2526,2023,No,Missing Critical Data Element: Region
+P0281,Farm Operation 281,,Poultry,2577,2024,No,Missing Critical Data Element: Region
+P0285,Farm Operation 285,South,Swine,-44,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0285,Farm Operation 285,South,Swine,-41,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0286,Farm Operation 286,,Swine,529,2023,Yes,Missing Critical Data Element: Region
+P0286,Farm Operation 286,,Swine,567,2024,Yes,Missing Critical Data Element: Region
+P0292,Farm Operation 292,South,Swine,-31,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0292,Farm Operation 292,South,Swine,-31,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0294,Farm Operation 294,Midwest,Poultry,-72,2023,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0294,Farm Operation 294,Midwest,Poultry,-72,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0297,Farm Operation 297,,Dairy Cattle,1953,2023,No,Missing Critical Data Element: Region
+P0297,Farm Operation 297,,Dairy Cattle,1909,2024,No,Missing Critical Data Element: Region
+P0299,Farm Operation 299,,Beef Cattle,2958,2023,Yes,Missing Critical Data Element: Region
+P0299,Farm Operation 299,,Beef Cattle,2860,2024,Yes,Missing Critical Data Element: Region
+P0306,Farm Operation 306,,Swine,-40,2023,Yes,Missing Critical Data Element: Region | Invalid Integrity Check: Negative/Zero Head Count
+P0306,Farm Operation 306,,Swine,-43,2024,Yes,Missing Critical Data Element: Region | Invalid Integrity Check: Negative/Zero Head Count
+P0314,Farm Operation 314,,Poultry,4359,2023,Yes,Missing Critical Data Element: Region
+P0314,Farm Operation 314,,Poultry,4322,2024,Yes,Missing Critical Data Element: Region
+P0325,Farm Operation 325,Northeast,Poultry,-10,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0325,Farm Operation 325,Northeast,Poultry,-10,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0326,Farm Operation 326,Midwest,Dairy Cattle,-64,2023,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0326,Farm Operation 326,Midwest,Dairy Cattle,-68,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0330,Farm Operation 330,,Poultry,488,2023,Yes,Missing Critical Data Element: Region
+P0330,Farm Operation 330,,Poultry,467,2024,Yes,Missing Critical Data Element: Region
+P0333,Farm Operation 333,,Dairy Cattle,2057,2023,No,Missing Critical Data Element: Region
+P0333,Farm Operation 333,,Dairy Cattle,1878,2024,No,Missing Critical Data Element: Region
+P0342,Farm Operation 342,South,Beef Cattle,-67,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0342,Farm Operation 342,South,Beef Cattle,-67,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0346,Farm Operation 346,,Poultry,4789,2023,Yes,Missing Critical Data Element: Region
+P0346,Farm Operation 346,,Poultry,4932,2024,Yes,Missing Critical Data Element: Region
+P0350,Farm Operation 350,Midwest,Swine,-41,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0350,Farm Operation 350,Midwest,Swine,-41,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0357,Farm Operation 357,South,Beef Cattle,-36,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0357,Farm Operation 357,South,Beef Cattle,-39,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0359,Farm Operation 359,South,Dairy Cattle,-44,2023,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0359,Farm Operation 359,South,Dairy Cattle,-41,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0364,Farm Operation 364,,Dairy Cattle,58,2023,Yes,Missing Critical Data Element: Region
+P0364,Farm Operation 364,,Dairy Cattle,63,2024,Yes,Missing Critical Data Element: Region
+P0368,Farm Operation 368,,Poultry,4431,2023,No,Missing Critical Data Element: Region
+P0368,Farm Operation 368,,Poultry,4400,2024,No,Missing Critical Data Element: Region
+P0375,Farm Operation 375,South,Dairy Cattle,-16,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0375,Farm Operation 375,South,Dairy Cattle,-16,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0385,Farm Operation 385,West,Swine,-86,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0385,Farm Operation 385,West,Swine,-79,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0412,Farm Operation 412,Northeast,Dairy Cattle,-62,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0412,Farm Operation 412,Northeast,Dairy Cattle,-62,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0420,Farm Operation 420,Midwest,Poultry,-58,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0420,Farm Operation 420,Midwest,Poultry,-56,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0423,Farm Operation 423,,Beef Cattle,-77,2023,Yes,Missing Critical Data Element: Region | Invalid Integrity Check: Negative/Zero Head Count
+P0423,Farm Operation 423,,Beef Cattle,-80,2024,Yes,Missing Critical Data Element: Region | Invalid Integrity Check: Negative/Zero Head Count
+P0440,Farm Operation 440,Northeast,Dairy Cattle,-69,2023,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0440,Farm Operation 440,Northeast,Dairy Cattle,-75,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0450,Farm Operation 450,,Poultry,3331,2023,Planned,Missing Critical Data Element: Region
+P0450,Farm Operation 450,,Poultry,3240,2024,Yes,Missing Critical Data Element: Region
+P0451,Farm Operation 451,South,Poultry,-52,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0451,Farm Operation 451,South,Poultry,-54,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0454,Farm Operation 454,West,Dairy Cattle,-29,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0454,Farm Operation 454,West,Dairy Cattle,-29,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0462,Farm Operation 462,West,Beef Cattle,-29,2023,No,Invalid Integrity Check: Negative/Zero Head Count
+P0462,Farm Operation 462,West,Beef Cattle,-29,2024,No,Invalid Integrity Check: Negative/Zero Head Count
+P0478,Farm Operation 478,,Dairy Cattle,3423,2023,Planned,Missing Critical Data Element: Region
+P0478,Farm Operation 478,,Dairy Cattle,3189,2024,Yes,Missing Critical Data Element: Region
+P0482,Farm Operation 482,Northeast,Dairy Cattle,-72,2023,Planned,Invalid Integrity Check: Negative/Zero Head Count
+P0482,Farm Operation 482,Northeast,Dairy Cattle,-72,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0483,Farm Operation 483,,Swine,-38,2023,No,Missing Critical Data Element: Region | Invalid Integrity Check: Negative/Zero Head Count
+P0483,Farm Operation 483,,Swine,-39,2024,No,Missing Critical Data Element: Region | Invalid Integrity Check: Negative/Zero Head Count
+P0485,Farm Operation 485,,Swine,4523,2023,Planned,Missing Critical Data Element: Region
+P0485,Farm Operation 485,,Swine,4895,2024,Yes,Missing Critical Data Element: Region
+P0491,Farm Operation 491,South,Dairy Cattle,-69,2023,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0491,Farm Operation 491,South,Dairy Cattle,-63,2024,Yes,Invalid Integrity Check: Negative/Zero Head Count
+P0492,Farm Operation 492,,Dairy Cattle,3750,2023,No,Missing Critical Data Element: Region
+P0492,Farm Operation 492,,Dairy Cattle,3535,2024,No,Missing Critical Data Element: Region

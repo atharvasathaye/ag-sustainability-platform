@@ -1,0 +1,865 @@
+producer_id,producer_name,region,livestock_type,head_count,reporting_year,program_intervention_adopted
+P0001,Farm Operation 1,West,Swine,3322,2023,Yes
+P0001,Farm Operation 1,West,Swine,3004,2024,Yes
+P0002,Farm Operation 2,Northeast,Poultry,2819,2023,No
+P0002,Farm Operation 2,Northeast,Poultry,2881,2024,No
+P0003,Farm Operation 3,Midwest,Dairy Cattle,3744,2023,No
+P0003,Farm Operation 3,Midwest,Dairy Cattle,4091,2024,No
+P0006,Farm Operation 6,Northeast,Poultry,3080,2023,Planned
+P0006,Farm Operation 6,Northeast,Poultry,3206,2024,Yes
+P0007,Farm Operation 7,Northeast,Poultry,1732,2023,Planned
+P0007,Farm Operation 7,Northeast,Poultry,1657,2024,Yes
+P0008,Farm Operation 8,Midwest,Swine,3865,2023,Yes
+P0008,Farm Operation 8,Midwest,Swine,4077,2024,Yes
+P0009,Farm Operation 9,South,Dairy Cattle,4129,2023,Yes
+P0009,Farm Operation 9,South,Dairy Cattle,4337,2024,Yes
+P0010,Farm Operation 10,Midwest,Poultry,2792,2023,No
+P0010,Farm Operation 10,Midwest,Poultry,2619,2024,No
+P0011,Farm Operation 11,West,Swine,1904,2023,Yes
+P0011,Farm Operation 11,West,Swine,1816,2024,Yes
+P0012,Farm Operation 12,Northeast,Poultry,3449,2023,Yes
+P0012,Farm Operation 12,Northeast,Poultry,3634,2024,Yes
+P0013,Farm Operation 13,West,Poultry,790,2023,Yes
+P0013,Farm Operation 13,West,Poultry,739,2024,Yes
+P0014,Farm Operation 14,South,Poultry,1058,2023,Yes
+P0014,Farm Operation 14,South,Poultry,1073,2024,Yes
+P0015,Farm Operation 15,South,Swine,2107,2023,Planned
+P0015,Farm Operation 15,South,Swine,2232,2024,Yes
+P0016,Farm Operation 16,South,Poultry,3886,2023,No
+P0016,Farm Operation 16,South,Poultry,3616,2024,No
+P0017,Farm Operation 17,Midwest,Swine,3302,2023,No
+P0017,Farm Operation 17,Midwest,Swine,3603,2024,No
+P0019,Farm Operation 19,West,Swine,1088,2023,No
+P0019,Farm Operation 19,West,Swine,1028,2024,No
+P0020,Farm Operation 20,South,Poultry,3420,2023,No
+P0020,Farm Operation 20,South,Poultry,3675,2024,No
+P0021,Farm Operation 21,Midwest,Beef Cattle,801,2023,No
+P0021,Farm Operation 21,Midwest,Beef Cattle,830,2024,No
+P0022,Farm Operation 22,Northeast,Swine,568,2023,No
+P0022,Farm Operation 22,Northeast,Swine,567,2024,No
+P0023,Farm Operation 23,Northeast,Beef Cattle,129,2023,Planned
+P0023,Farm Operation 23,Northeast,Beef Cattle,140,2024,Yes
+P0024,Farm Operation 24,West,Dairy Cattle,3392,2023,No
+P0024,Farm Operation 24,West,Dairy Cattle,3407,2024,No
+P0025,Farm Operation 25,Northeast,Dairy Cattle,1929,2023,Planned
+P0025,Farm Operation 25,Northeast,Dairy Cattle,1881,2024,Yes
+P0026,Farm Operation 26,South,Swine,3441,2023,Yes
+P0026,Farm Operation 26,South,Swine,3220,2024,Yes
+P0027,Farm Operation 27,West,Poultry,334,2023,Yes
+P0027,Farm Operation 27,West,Poultry,358,2024,Yes
+P0028,Farm Operation 28,Northeast,Beef Cattle,3266,2023,Yes
+P0028,Farm Operation 28,Northeast,Beef Cattle,3188,2024,Yes
+P0030,Farm Operation 30,Midwest,Poultry,2054,2023,No
+P0030,Farm Operation 30,Midwest,Poultry,2176,2024,No
+P0031,Farm Operation 31,Midwest,Dairy Cattle,2355,2023,No
+P0031,Farm Operation 31,Midwest,Dairy Cattle,2157,2024,No
+P0032,Farm Operation 32,Northeast,Poultry,119,2023,Yes
+P0032,Farm Operation 32,Northeast,Poultry,111,2024,Yes
+P0035,Farm Operation 35,South,Beef Cattle,4825,2023,Yes
+P0035,Farm Operation 35,South,Beef Cattle,4520,2024,Yes
+P0036,Farm Operation 36,Northeast,Poultry,1490,2023,No
+P0036,Farm Operation 36,Northeast,Poultry,1443,2024,No
+P0037,Farm Operation 37,South,Swine,763,2023,Yes
+P0037,Farm Operation 37,South,Swine,826,2024,Yes
+P0038,Farm Operation 38,West,Swine,4402,2023,Planned
+P0038,Farm Operation 38,West,Swine,4349,2024,Yes
+P0039,Farm Operation 39,West,Swine,2932,2023,No
+P0039,Farm Operation 39,West,Swine,2730,2024,No
+P0040,Farm Operation 40,South,Dairy Cattle,3096,2023,No
+P0040,Farm Operation 40,South,Dairy Cattle,3016,2024,No
+P0041,Farm Operation 41,West,Swine,4547,2023,Yes
+P0041,Farm Operation 41,West,Swine,4187,2024,Yes
+P0042,Farm Operation 42,South,Beef Cattle,4668,2023,No
+P0042,Farm Operation 42,South,Beef Cattle,4895,2024,No
+P0043,Farm Operation 43,Northeast,Poultry,2614,2023,Yes
+P0043,Farm Operation 43,Northeast,Poultry,2514,2024,Yes
+P0044,Farm Operation 44,Northeast,Beef Cattle,4221,2023,Yes
+P0044,Farm Operation 44,Northeast,Beef Cattle,4585,2024,Yes
+P0045,Farm Operation 45,West,Swine,1406,2023,No
+P0045,Farm Operation 45,West,Swine,1447,2024,No
+P0046,Farm Operation 46,Midwest,Poultry,2481,2023,Yes
+P0046,Farm Operation 46,Midwest,Poultry,2561,2024,Yes
+P0047,Farm Operation 47,Northeast,Beef Cattle,1926,2023,Planned
+P0047,Farm Operation 47,Northeast,Beef Cattle,1913,2024,Yes
+P0048,Farm Operation 48,West,Dairy Cattle,2450,2023,Yes
+P0048,Farm Operation 48,West,Dairy Cattle,2551,2024,Yes
+P0049,Farm Operation 49,Northeast,Beef Cattle,4202,2023,No
+P0049,Farm Operation 49,Northeast,Beef Cattle,4016,2024,No
+P0050,Farm Operation 50,West,Beef Cattle,3362,2023,Planned
+P0050,Farm Operation 50,West,Beef Cattle,3353,2024,Yes
+P0051,Farm Operation 51,South,Poultry,3358,2023,Planned
+P0051,Farm Operation 51,South,Poultry,3379,2024,Yes
+P0052,Farm Operation 52,Northeast,Swine,3406,2023,No
+P0052,Farm Operation 52,Northeast,Swine,3616,2024,No
+P0053,Farm Operation 53,Midwest,Poultry,2492,2023,No
+P0053,Farm Operation 53,Midwest,Poultry,2392,2024,No
+P0055,Farm Operation 55,South,Swine,1127,2023,Planned
+P0055,Farm Operation 55,South,Swine,1015,2024,Yes
+P0056,Farm Operation 56,Midwest,Dairy Cattle,2844,2023,Yes
+P0056,Farm Operation 56,Midwest,Dairy Cattle,2749,2024,Yes
+P0057,Farm Operation 57,Northeast,Dairy Cattle,2054,2023,Yes
+P0057,Farm Operation 57,Northeast,Dairy Cattle,2141,2024,Yes
+P0058,Farm Operation 58,Midwest,Poultry,3432,2023,Yes
+P0058,Farm Operation 58,Midwest,Poultry,3697,2024,Yes
+P0059,Farm Operation 59,Northeast,Poultry,3295,2023,Planned
+P0059,Farm Operation 59,Northeast,Poultry,3494,2024,Yes
+P0061,Farm Operation 61,South,Swine,327,2023,Yes
+P0061,Farm Operation 61,South,Swine,302,2024,Yes
+P0062,Farm Operation 62,Northeast,Swine,4009,2023,No
+P0062,Farm Operation 62,Northeast,Swine,4253,2024,No
+P0063,Farm Operation 63,South,Beef Cattle,3354,2023,Planned
+P0063,Farm Operation 63,South,Beef Cattle,3102,2024,Yes
+P0064,Farm Operation 64,Northeast,Dairy Cattle,4347,2023,Planned
+P0064,Farm Operation 64,Northeast,Dairy Cattle,4730,2024,Yes
+P0066,Farm Operation 66,South,Poultry,2546,2023,No
+P0066,Farm Operation 66,South,Poultry,2537,2024,No
+P0067,Farm Operation 67,West,Beef Cattle,1349,2023,Yes
+P0067,Farm Operation 67,West,Beef Cattle,1411,2024,Yes
+P0068,Farm Operation 68,South,Beef Cattle,1707,2023,Yes
+P0068,Farm Operation 68,South,Beef Cattle,1651,2024,Yes
+P0069,Farm Operation 69,Northeast,Swine,1530,2023,Yes
+P0069,Farm Operation 69,Northeast,Swine,1434,2024,Yes
+P0071,Farm Operation 71,West,Dairy Cattle,857,2023,Yes
+P0071,Farm Operation 71,West,Dairy Cattle,905,2024,Yes
+P0072,Farm Operation 72,Midwest,Poultry,3150,2023,No
+P0072,Farm Operation 72,Midwest,Poultry,3276,2024,No
+P0073,Farm Operation 73,Midwest,Dairy Cattle,4558,2023,Yes
+P0073,Farm Operation 73,Midwest,Dairy Cattle,4314,2024,Yes
+P0074,Farm Operation 74,South,Swine,4614,2023,Yes
+P0074,Farm Operation 74,South,Swine,4361,2024,Yes
+P0075,Farm Operation 75,West,Poultry,1693,2023,Planned
+P0075,Farm Operation 75,West,Poultry,1668,2024,Yes
+P0076,Farm Operation 76,Northeast,Swine,3021,2023,Yes
+P0076,Farm Operation 76,Northeast,Swine,3271,2024,Yes
+P0077,Farm Operation 77,South,Swine,1265,2023,No
+P0077,Farm Operation 77,South,Swine,1221,2024,No
+P0078,Farm Operation 78,West,Beef Cattle,1184,2023,No
+P0078,Farm Operation 78,West,Beef Cattle,1251,2024,No
+P0079,Farm Operation 79,West,Dairy Cattle,2218,2023,Planned
+P0079,Farm Operation 79,West,Dairy Cattle,2173,2024,Yes
+P0080,Farm Operation 80,West,Dairy Cattle,4405,2023,Planned
+P0080,Farm Operation 80,West,Dairy Cattle,4758,2024,Yes
+P0081,Farm Operation 81,South,Dairy Cattle,1982,2023,Planned
+P0081,Farm Operation 81,South,Dairy Cattle,2165,2024,Yes
+P0082,Farm Operation 82,Midwest,Swine,3595,2023,Planned
+P0082,Farm Operation 82,Midwest,Swine,3720,2024,Yes
+P0083,Farm Operation 83,South,Swine,4153,2023,No
+P0083,Farm Operation 83,South,Swine,4334,2024,No
+P0084,Farm Operation 84,Midwest,Beef Cattle,4363,2023,No
+P0084,Farm Operation 84,Midwest,Beef Cattle,4494,2024,No
+P0085,Farm Operation 85,West,Poultry,2141,2023,No
+P0085,Farm Operation 85,West,Poultry,2334,2024,No
+P0086,Farm Operation 86,South,Dairy Cattle,2440,2023,No
+P0086,Farm Operation 86,South,Dairy Cattle,2615,2024,No
+P0087,Farm Operation 87,West,Dairy Cattle,4895,2023,Yes
+P0087,Farm Operation 87,West,Dairy Cattle,4613,2024,Yes
+P0088,Farm Operation 88,Northeast,Poultry,1117,2023,Planned
+P0088,Farm Operation 88,Northeast,Poultry,1120,2024,Yes
+P0089,Farm Operation 89,Northeast,Poultry,2490,2023,No
+P0089,Farm Operation 89,Northeast,Poultry,2278,2024,No
+P0090,Farm Operation 90,Northeast,Dairy Cattle,2154,2023,No
+P0090,Farm Operation 90,Northeast,Dairy Cattle,2148,2024,No
+P0091,Farm Operation 91,Midwest,Beef Cattle,1942,2023,Planned
+P0091,Farm Operation 91,Midwest,Beef Cattle,1838,2024,Yes
+P0092,Farm Operation 92,Northeast,Poultry,675,2023,Planned
+P0092,Farm Operation 92,Northeast,Poultry,670,2024,Yes
+P0093,Farm Operation 93,South,Dairy Cattle,4627,2023,Planned
+P0093,Farm Operation 93,South,Dairy Cattle,4207,2024,Yes
+P0094,Farm Operation 94,Northeast,Beef Cattle,3084,2023,No
+P0094,Farm Operation 94,Northeast,Beef Cattle,3289,2024,No
+P0095,Farm Operation 95,Midwest,Beef Cattle,3890,2023,Planned
+P0095,Farm Operation 95,Midwest,Beef Cattle,4002,2024,Yes
+P0096,Farm Operation 96,West,Dairy Cattle,3825,2023,Yes
+P0096,Farm Operation 96,West,Dairy Cattle,4091,2024,Yes
+P0097,Farm Operation 97,Midwest,Swine,2075,2023,No
+P0097,Farm Operation 97,Midwest,Swine,2147,2024,No
+P0098,Farm Operation 98,West,Beef Cattle,1632,2023,Planned
+P0098,Farm Operation 98,West,Beef Cattle,1497,2024,Yes
+P0099,Farm Operation 99,Northeast,Swine,1837,2023,No
+P0099,Farm Operation 99,Northeast,Swine,1818,2024,No
+P0100,Farm Operation 100,Midwest,Poultry,4744,2023,Planned
+P0100,Farm Operation 100,Midwest,Poultry,4587,2024,Yes
+P0101,Farm Operation 101,Northeast,Swine,3157,2023,Yes
+P0101,Farm Operation 101,Northeast,Swine,3116,2024,Yes
+P0102,Farm Operation 102,Midwest,Swine,4464,2023,Planned
+P0102,Farm Operation 102,Midwest,Swine,4155,2024,Yes
+P0103,Farm Operation 103,Midwest,Dairy Cattle,1241,2023,Yes
+P0103,Farm Operation 103,Midwest,Dairy Cattle,1137,2024,Yes
+P0104,Farm Operation 104,West,Poultry,1001,2023,Planned
+P0104,Farm Operation 104,West,Poultry,930,2024,Yes
+P0105,Farm Operation 105,West,Dairy Cattle,2997,2023,No
+P0105,Farm Operation 105,West,Dairy Cattle,2836,2024,No
+P0106,Farm Operation 106,Northeast,Beef Cattle,4211,2023,Planned
+P0106,Farm Operation 106,Northeast,Beef Cattle,3906,2024,Yes
+P0107,Farm Operation 107,South,Beef Cattle,4454,2023,Planned
+P0107,Farm Operation 107,South,Beef Cattle,4646,2024,Yes
+P0108,Farm Operation 108,West,Dairy Cattle,894,2023,Planned
+P0108,Farm Operation 108,West,Dairy Cattle,894,2024,Yes
+P0109,Farm Operation 109,South,Swine,1556,2023,Planned
+P0109,Farm Operation 109,South,Swine,1634,2024,Yes
+P0110,Farm Operation 110,Midwest,Swine,1690,2023,No
+P0110,Farm Operation 110,Midwest,Swine,1766,2024,No
+P0111,Farm Operation 111,West,Dairy Cattle,4834,2023,Planned
+P0111,Farm Operation 111,West,Dairy Cattle,5123,2024,Yes
+P0112,Farm Operation 112,South,Dairy Cattle,3208,2023,Planned
+P0112,Farm Operation 112,South,Dairy Cattle,3443,2024,Yes
+P0113,Farm Operation 113,West,Beef Cattle,1233,2023,Yes
+P0113,Farm Operation 113,West,Beef Cattle,1307,2024,Yes
+P0114,Farm Operation 114,Northeast,Dairy Cattle,1055,2023,Yes
+P0114,Farm Operation 114,Northeast,Dairy Cattle,1111,2024,Yes
+P0115,Farm Operation 115,Northeast,Dairy Cattle,380,2023,Planned
+P0115,Farm Operation 115,Northeast,Dairy Cattle,416,2024,Yes
+P0116,Farm Operation 116,Northeast,Swine,4296,2023,Yes
+P0116,Farm Operation 116,Northeast,Swine,4219,2024,Yes
+P0118,Farm Operation 118,Northeast,Swine,2393,2023,No
+P0118,Farm Operation 118,Northeast,Swine,2166,2024,No
+P0120,Farm Operation 120,Midwest,Dairy Cattle,2604,2023,Yes
+P0120,Farm Operation 120,Midwest,Dairy Cattle,2695,2024,Yes
+P0121,Farm Operation 121,Midwest,Beef Cattle,1330,2023,Yes
+P0121,Farm Operation 121,Midwest,Beef Cattle,1203,2024,Yes
+P0122,Farm Operation 122,West,Beef Cattle,2176,2023,Planned
+P0122,Farm Operation 122,West,Beef Cattle,2249,2024,Yes
+P0125,Farm Operation 125,South,Beef Cattle,475,2023,Yes
+P0125,Farm Operation 125,South,Beef Cattle,444,2024,Yes
+P0126,Farm Operation 126,South,Poultry,2836,2023,Planned
+P0126,Farm Operation 126,South,Poultry,2967,2024,Yes
+P0127,Farm Operation 127,West,Poultry,844,2023,Planned
+P0127,Farm Operation 127,West,Poultry,908,2024,Yes
+P0128,Farm Operation 128,West,Beef Cattle,3458,2023,No
+P0128,Farm Operation 128,West,Beef Cattle,3716,2024,No
+P0129,Farm Operation 129,Midwest,Swine,4116,2023,Planned
+P0129,Farm Operation 129,Midwest,Swine,4425,2024,Yes
+P0130,Farm Operation 130,South,Poultry,2788,2023,No
+P0130,Farm Operation 130,South,Poultry,2515,2024,No
+P0131,Farm Operation 131,West,Beef Cattle,1575,2023,No
+P0131,Farm Operation 131,West,Beef Cattle,1705,2024,No
+P0132,Farm Operation 132,West,Poultry,2894,2023,No
+P0132,Farm Operation 132,West,Poultry,2941,2024,No
+P0133,Farm Operation 133,South,Dairy Cattle,609,2023,Planned
+P0133,Farm Operation 133,South,Dairy Cattle,626,2024,Yes
+P0134,Farm Operation 134,South,Dairy Cattle,3295,2023,Yes
+P0134,Farm Operation 134,South,Dairy Cattle,3029,2024,Yes
+P0135,Farm Operation 135,South,Dairy Cattle,1989,2023,No
+P0135,Farm Operation 135,South,Dairy Cattle,1986,2024,No
+P0136,Farm Operation 136,West,Dairy Cattle,2140,2023,No
+P0136,Farm Operation 136,West,Dairy Cattle,2269,2024,No
+P0137,Farm Operation 137,Midwest,Swine,4785,2023,Yes
+P0137,Farm Operation 137,Midwest,Swine,4414,2024,Yes
+P0138,Farm Operation 138,South,Poultry,3603,2023,Planned
+P0138,Farm Operation 138,South,Poultry,3905,2024,Yes
+P0139,Farm Operation 139,Midwest,Beef Cattle,3085,2023,Planned
+P0139,Farm Operation 139,Midwest,Beef Cattle,3097,2024,Yes
+P0140,Farm Operation 140,Midwest,Swine,1397,2023,Planned
+P0140,Farm Operation 140,Midwest,Swine,1332,2024,Yes
+P0141,Farm Operation 141,Northeast,Swine,1134,2023,Planned
+P0141,Farm Operation 141,Northeast,Swine,1179,2024,Yes
+P0142,Farm Operation 142,South,Beef Cattle,100,2023,No
+P0142,Farm Operation 142,South,Beef Cattle,94,2024,No
+P0143,Farm Operation 143,Northeast,Beef Cattle,4057,2023,Yes
+P0143,Farm Operation 143,Northeast,Beef Cattle,4397,2024,Yes
+P0144,Farm Operation 144,Northeast,Swine,2571,2023,No
+P0144,Farm Operation 144,Northeast,Swine,2799,2024,No
+P0145,Farm Operation 145,South,Beef Cattle,3865,2023,No
+P0145,Farm Operation 145,South,Beef Cattle,3902,2024,No
+P0146,Farm Operation 146,South,Beef Cattle,765,2023,Yes
+P0146,Farm Operation 146,South,Beef Cattle,720,2024,Yes
+P0147,Farm Operation 147,Midwest,Dairy Cattle,3822,2023,No
+P0147,Farm Operation 147,Midwest,Dairy Cattle,3600,2024,No
+P0148,Farm Operation 148,West,Dairy Cattle,2618,2023,No
+P0148,Farm Operation 148,West,Dairy Cattle,2826,2024,No
+P0149,Farm Operation 149,West,Beef Cattle,3196,2023,Planned
+P0149,Farm Operation 149,West,Beef Cattle,3326,2024,Yes
+P0151,Farm Operation 151,West,Dairy Cattle,3495,2023,Yes
+P0151,Farm Operation 151,West,Dairy Cattle,3533,2024,Yes
+P0152,Farm Operation 152,Northeast,Swine,730,2023,No
+P0152,Farm Operation 152,Northeast,Swine,745,2024,No
+P0153,Farm Operation 153,South,Dairy Cattle,4717,2023,No
+P0153,Farm Operation 153,South,Dairy Cattle,4349,2024,No
+P0154,Farm Operation 154,South,Swine,2137,2023,Planned
+P0154,Farm Operation 154,South,Swine,2179,2024,Yes
+P0155,Farm Operation 155,Midwest,Swine,1774,2023,No
+P0155,Farm Operation 155,Midwest,Swine,1884,2024,No
+P0156,Farm Operation 156,West,Beef Cattle,1406,2023,Planned
+P0156,Farm Operation 156,West,Beef Cattle,1276,2024,Yes
+P0157,Farm Operation 157,West,Dairy Cattle,4611,2023,No
+P0157,Farm Operation 157,West,Dairy Cattle,4717,2024,No
+P0158,Farm Operation 158,Northeast,Dairy Cattle,3870,2023,No
+P0158,Farm Operation 158,Northeast,Dairy Cattle,3622,2024,No
+P0160,Farm Operation 160,Midwest,Dairy Cattle,2548,2023,No
+P0160,Farm Operation 160,Midwest,Dairy Cattle,2517,2024,No
+P0161,Farm Operation 161,South,Swine,2301,2023,No
+P0161,Farm Operation 161,South,Swine,2153,2024,No
+P0162,Farm Operation 162,Midwest,Beef Cattle,4823,2023,Planned
+P0162,Farm Operation 162,Midwest,Beef Cattle,4466,2024,Yes
+P0163,Farm Operation 163,West,Dairy Cattle,4618,2023,Yes
+P0163,Farm Operation 163,West,Dairy Cattle,4746,2024,Yes
+P0164,Farm Operation 164,West,Poultry,1679,2023,Planned
+P0164,Farm Operation 164,West,Poultry,1653,2024,Yes
+P0165,Farm Operation 165,Midwest,Poultry,3076,2023,No
+P0165,Farm Operation 165,Midwest,Poultry,3177,2024,No
+P0166,Farm Operation 166,West,Beef Cattle,4129,2023,Yes
+P0166,Farm Operation 166,West,Beef Cattle,3879,2024,Yes
+P0167,Farm Operation 167,West,Dairy Cattle,1040,2023,Planned
+P0167,Farm Operation 167,West,Dairy Cattle,1035,2024,Yes
+P0168,Farm Operation 168,West,Poultry,2130,2023,No
+P0168,Farm Operation 168,West,Poultry,2055,2024,No
+P0170,Farm Operation 170,West,Beef Cattle,3039,2023,Yes
+P0170,Farm Operation 170,West,Beef Cattle,2741,2024,Yes
+P0171,Farm Operation 171,Midwest,Beef Cattle,347,2023,Planned
+P0171,Farm Operation 171,Midwest,Beef Cattle,314,2024,Yes
+P0172,Farm Operation 172,Midwest,Poultry,1097,2023,Yes
+P0172,Farm Operation 172,Midwest,Poultry,1062,2024,Yes
+P0173,Farm Operation 173,Midwest,Poultry,3712,2023,No
+P0173,Farm Operation 173,Midwest,Poultry,3712,2024,No
+P0174,Farm Operation 174,Northeast,Poultry,2182,2023,No
+P0174,Farm Operation 174,Northeast,Poultry,1988,2024,No
+P0175,Farm Operation 175,Northeast,Dairy Cattle,3840,2023,Planned
+P0175,Farm Operation 175,Northeast,Dairy Cattle,4062,2024,Yes
+P0176,Farm Operation 176,West,Dairy Cattle,2191,2023,Planned
+P0176,Farm Operation 176,West,Dairy Cattle,2080,2024,Yes
+P0177,Farm Operation 177,Northeast,Dairy Cattle,1826,2023,Planned
+P0177,Farm Operation 177,Northeast,Dairy Cattle,1806,2024,Yes
+P0178,Farm Operation 178,Midwest,Beef Cattle,1823,2023,Planned
+P0178,Farm Operation 178,Midwest,Beef Cattle,1713,2024,Yes
+P0179,Farm Operation 179,Midwest,Swine,598,2023,No
+P0179,Farm Operation 179,Midwest,Swine,591,2024,No
+P0180,Farm Operation 180,Northeast,Beef Cattle,537,2023,Yes
+P0180,Farm Operation 180,Northeast,Beef Cattle,519,2024,Yes
+P0181,Farm Operation 181,Midwest,Dairy Cattle,355,2023,Yes
+P0181,Farm Operation 181,Midwest,Dairy Cattle,340,2024,Yes
+P0182,Farm Operation 182,West,Swine,487,2023,Yes
+P0182,Farm Operation 182,West,Swine,516,2024,Yes
+P0183,Farm Operation 183,South,Beef Cattle,3954,2023,Planned
+P0183,Farm Operation 183,South,Beef Cattle,4026,2024,Yes
+P0184,Farm Operation 184,West,Poultry,1933,2023,No
+P0184,Farm Operation 184,West,Poultry,1926,2024,No
+P0185,Farm Operation 185,South,Beef Cattle,2202,2023,No
+P0185,Farm Operation 185,South,Beef Cattle,2303,2024,No
+P0186,Farm Operation 186,West,Poultry,3974,2023,Yes
+P0186,Farm Operation 186,West,Poultry,4311,2024,Yes
+P0187,Farm Operation 187,Midwest,Swine,557,2023,Planned
+P0187,Farm Operation 187,Midwest,Swine,514,2024,Yes
+P0188,Farm Operation 188,West,Poultry,4941,2023,Planned
+P0188,Farm Operation 188,West,Poultry,5377,2024,Yes
+P0189,Farm Operation 189,South,Poultry,4106,2023,No
+P0189,Farm Operation 189,South,Poultry,4072,2024,No
+P0190,Farm Operation 190,South,Dairy Cattle,2904,2023,No
+P0190,Farm Operation 190,South,Dairy Cattle,2988,2024,No
+P0191,Farm Operation 191,Midwest,Beef Cattle,3857,2023,Planned
+P0191,Farm Operation 191,Midwest,Beef Cattle,4237,2024,Yes
+P0192,Farm Operation 192,South,Swine,3079,2023,Planned
+P0192,Farm Operation 192,South,Swine,3261,2024,Yes
+P0193,Farm Operation 193,South,Swine,3160,2023,Planned
+P0193,Farm Operation 193,South,Swine,2919,2024,Yes
+P0194,Farm Operation 194,Northeast,Dairy Cattle,1349,2023,No
+P0194,Farm Operation 194,Northeast,Dairy Cattle,1350,2024,No
+P0195,Farm Operation 195,Midwest,Swine,55,2023,No
+P0195,Farm Operation 195,Midwest,Swine,58,2024,No
+P0196,Farm Operation 196,South,Beef Cattle,2498,2023,Planned
+P0196,Farm Operation 196,South,Beef Cattle,2630,2024,Yes
+P0197,Farm Operation 197,South,Swine,2586,2023,Yes
+P0197,Farm Operation 197,South,Swine,2358,2024,Yes
+P0198,Farm Operation 198,South,Dairy Cattle,2520,2023,Planned
+P0198,Farm Operation 198,South,Dairy Cattle,2753,2024,Yes
+P0200,Farm Operation 200,Northeast,Dairy Cattle,4582,2023,No
+P0200,Farm Operation 200,Northeast,Dairy Cattle,4501,2024,No
+P0201,Farm Operation 201,Northeast,Beef Cattle,4341,2023,Yes
+P0201,Farm Operation 201,Northeast,Beef Cattle,4527,2024,Yes
+P0203,Farm Operation 203,West,Swine,1472,2023,No
+P0203,Farm Operation 203,West,Swine,1446,2024,No
+P0205,Farm Operation 205,South,Dairy Cattle,4138,2023,Yes
+P0205,Farm Operation 205,South,Dairy Cattle,3951,2024,Yes
+P0206,Farm Operation 206,Midwest,Beef Cattle,1675,2023,Planned
+P0206,Farm Operation 206,Midwest,Beef Cattle,1622,2024,Yes
+P0207,Farm Operation 207,South,Beef Cattle,2181,2023,Yes
+P0207,Farm Operation 207,South,Beef Cattle,2110,2024,Yes
+P0209,Farm Operation 209,South,Poultry,4392,2023,Planned
+P0209,Farm Operation 209,South,Poultry,4009,2024,Yes
+P0211,Farm Operation 211,Midwest,Beef Cattle,4636,2023,No
+P0211,Farm Operation 211,Midwest,Beef Cattle,4372,2024,No
+P0212,Farm Operation 212,Northeast,Beef Cattle,2380,2023,Yes
+P0212,Farm Operation 212,Northeast,Beef Cattle,2191,2024,Yes
+P0213,Farm Operation 213,South,Poultry,2985,2023,Planned
+P0213,Farm Operation 213,South,Poultry,2824,2024,Yes
+P0215,Farm Operation 215,South,Swine,2460,2023,Planned
+P0215,Farm Operation 215,South,Swine,2460,2024,Yes
+P0216,Farm Operation 216,West,Dairy Cattle,2820,2023,Planned
+P0216,Farm Operation 216,West,Dairy Cattle,2982,2024,Yes
+P0217,Farm Operation 217,South,Swine,3713,2023,No
+P0217,Farm Operation 217,South,Swine,3770,2024,No
+P0218,Farm Operation 218,West,Poultry,1546,2023,Planned
+P0218,Farm Operation 218,West,Poultry,1641,2024,Yes
+P0219,Farm Operation 219,West,Swine,4862,2023,No
+P0219,Farm Operation 219,West,Swine,5285,2024,No
+P0220,Farm Operation 220,South,Dairy Cattle,1228,2023,No
+P0220,Farm Operation 220,South,Dairy Cattle,1125,2024,No
+P0221,Farm Operation 221,West,Dairy Cattle,3423,2023,No
+P0221,Farm Operation 221,West,Dairy Cattle,3382,2024,No
+P0222,Farm Operation 222,West,Dairy Cattle,2972,2023,Planned
+P0222,Farm Operation 222,West,Dairy Cattle,2995,2024,Yes
+P0223,Farm Operation 223,West,Poultry,2225,2023,Yes
+P0223,Farm Operation 223,West,Poultry,2386,2024,Yes
+P0224,Farm Operation 224,Northeast,Dairy Cattle,2227,2023,Planned
+P0224,Farm Operation 224,Northeast,Dairy Cattle,2063,2024,Yes
+P0225,Farm Operation 225,West,Beef Cattle,3644,2023,Planned
+P0225,Farm Operation 225,West,Beef Cattle,3284,2024,Yes
+P0227,Farm Operation 227,West,Swine,2100,2023,No
+P0227,Farm Operation 227,West,Swine,2290,2024,No
+P0228,Farm Operation 228,South,Beef Cattle,3706,2023,Yes
+P0228,Farm Operation 228,South,Beef Cattle,3340,2024,Yes
+P0229,Farm Operation 229,Midwest,Poultry,1605,2023,Yes
+P0229,Farm Operation 229,Midwest,Poultry,1758,2024,Yes
+P0231,Farm Operation 231,Northeast,Dairy Cattle,3130,2023,Yes
+P0231,Farm Operation 231,Northeast,Dairy Cattle,3373,2024,Yes
+P0232,Farm Operation 232,West,Dairy Cattle,1259,2023,Yes
+P0232,Farm Operation 232,West,Dairy Cattle,1360,2024,Yes
+P0233,Farm Operation 233,West,Beef Cattle,565,2023,Yes
+P0233,Farm Operation 233,West,Beef Cattle,580,2024,Yes
+P0234,Farm Operation 234,West,Swine,466,2023,No
+P0234,Farm Operation 234,West,Swine,494,2024,No
+P0235,Farm Operation 235,Midwest,Poultry,4286,2023,Planned
+P0235,Farm Operation 235,Midwest,Poultry,4660,2024,Yes
+P0236,Farm Operation 236,West,Beef Cattle,2940,2023,No
+P0236,Farm Operation 236,West,Beef Cattle,2952,2024,No
+P0237,Farm Operation 237,Midwest,Poultry,2844,2023,Yes
+P0237,Farm Operation 237,Midwest,Poultry,3095,2024,Yes
+P0238,Farm Operation 238,Northeast,Poultry,2202,2023,Planned
+P0238,Farm Operation 238,Northeast,Poultry,1983,2024,Yes
+P0240,Farm Operation 240,South,Beef Cattle,4038,2023,Planned
+P0240,Farm Operation 240,South,Beef Cattle,4064,2024,Yes
+P0241,Farm Operation 241,Midwest,Swine,4399,2023,No
+P0241,Farm Operation 241,Midwest,Swine,4228,2024,No
+P0242,Farm Operation 242,Midwest,Dairy Cattle,1021,2023,No
+P0242,Farm Operation 242,Midwest,Dairy Cattle,1063,2024,No
+P0243,Farm Operation 243,South,Dairy Cattle,3555,2023,No
+P0243,Farm Operation 243,South,Dairy Cattle,3430,2024,No
+P0245,Farm Operation 245,Midwest,Dairy Cattle,1414,2023,Planned
+P0245,Farm Operation 245,Midwest,Dairy Cattle,1370,2024,Yes
+P0246,Farm Operation 246,Northeast,Beef Cattle,1348,2023,Yes
+P0246,Farm Operation 246,Northeast,Beef Cattle,1258,2024,Yes
+P0247,Farm Operation 247,South,Dairy Cattle,3067,2023,Yes
+P0247,Farm Operation 247,South,Dairy Cattle,2890,2024,Yes
+P0248,Farm Operation 248,Midwest,Beef Cattle,4488,2023,Yes
+P0248,Farm Operation 248,Midwest,Beef Cattle,4089,2024,Yes
+P0249,Farm Operation 249,Northeast,Poultry,894,2023,No
+P0249,Farm Operation 249,Northeast,Poultry,915,2024,No
+P0250,Farm Operation 250,West,Swine,2013,2023,Planned
+P0250,Farm Operation 250,West,Swine,2089,2024,Yes
+P0252,Farm Operation 252,Midwest,Swine,350,2023,Yes
+P0252,Farm Operation 252,Midwest,Swine,332,2024,Yes
+P0253,Farm Operation 253,South,Dairy Cattle,954,2023,Planned
+P0253,Farm Operation 253,South,Dairy Cattle,1024,2024,Yes
+P0254,Farm Operation 254,West,Dairy Cattle,2552,2023,No
+P0254,Farm Operation 254,West,Dairy Cattle,2561,2024,No
+P0255,Farm Operation 255,South,Beef Cattle,1264,2023,Planned
+P0255,Farm Operation 255,South,Beef Cattle,1311,2024,Yes
+P0256,Farm Operation 256,Northeast,Poultry,1200,2023,Yes
+P0256,Farm Operation 256,Northeast,Poultry,1146,2024,Yes
+P0257,Farm Operation 257,Midwest,Swine,4729,2023,Yes
+P0257,Farm Operation 257,Midwest,Swine,4404,2024,Yes
+P0258,Farm Operation 258,West,Swine,1350,2023,Yes
+P0258,Farm Operation 258,West,Swine,1455,2024,Yes
+P0260,Farm Operation 260,West,Beef Cattle,3040,2023,No
+P0260,Farm Operation 260,West,Beef Cattle,3197,2024,No
+P0261,Farm Operation 261,West,Poultry,1692,2023,Yes
+P0261,Farm Operation 261,West,Poultry,1581,2024,Yes
+P0262,Farm Operation 262,West,Poultry,3201,2023,No
+P0262,Farm Operation 262,West,Poultry,2933,2024,No
+P0263,Farm Operation 263,Midwest,Swine,396,2023,Planned
+P0263,Farm Operation 263,Midwest,Swine,363,2024,Yes
+P0265,Farm Operation 265,Northeast,Swine,2402,2023,Yes
+P0265,Farm Operation 265,Northeast,Swine,2490,2024,Yes
+P0266,Farm Operation 266,West,Swine,670,2023,Planned
+P0266,Farm Operation 266,West,Swine,695,2024,Yes
+P0268,Farm Operation 268,Northeast,Dairy Cattle,4908,2023,Planned
+P0268,Farm Operation 268,Northeast,Dairy Cattle,5126,2024,Yes
+P0269,Farm Operation 269,South,Swine,186,2023,No
+P0269,Farm Operation 269,South,Swine,184,2024,No
+P0270,Farm Operation 270,West,Beef Cattle,4186,2023,No
+P0270,Farm Operation 270,West,Beef Cattle,4342,2024,No
+P0271,Farm Operation 271,Northeast,Poultry,278,2023,Yes
+P0271,Farm Operation 271,Northeast,Poultry,266,2024,Yes
+P0272,Farm Operation 272,South,Swine,1021,2023,No
+P0272,Farm Operation 272,South,Swine,925,2024,No
+P0273,Farm Operation 273,South,Dairy Cattle,4766,2023,No
+P0273,Farm Operation 273,South,Dairy Cattle,4402,2024,No
+P0274,Farm Operation 274,South,Poultry,1262,2023,Yes
+P0274,Farm Operation 274,South,Poultry,1384,2024,Yes
+P0275,Farm Operation 275,West,Swine,1032,2023,Yes
+P0275,Farm Operation 275,West,Swine,1043,2024,Yes
+P0277,Farm Operation 277,Midwest,Dairy Cattle,1139,2023,Planned
+P0277,Farm Operation 277,Midwest,Dairy Cattle,1184,2024,Yes
+P0278,Farm Operation 278,Northeast,Beef Cattle,4463,2023,Yes
+P0278,Farm Operation 278,Northeast,Beef Cattle,4344,2024,Yes
+P0279,Farm Operation 279,Northeast,Swine,1904,2023,No
+P0279,Farm Operation 279,Northeast,Swine,1883,2024,No
+P0280,Farm Operation 280,West,Poultry,1962,2023,Planned
+P0280,Farm Operation 280,West,Poultry,1811,2024,Yes
+P0282,Farm Operation 282,West,Dairy Cattle,4088,2023,Planned
+P0282,Farm Operation 282,West,Dairy Cattle,3844,2024,Yes
+P0283,Farm Operation 283,West,Poultry,1637,2023,Planned
+P0283,Farm Operation 283,West,Poultry,1748,2024,Yes
+P0284,Farm Operation 284,Midwest,Dairy Cattle,722,2023,No
+P0284,Farm Operation 284,Midwest,Dairy Cattle,760,2024,No
+P0287,Farm Operation 287,South,Poultry,435,2023,No
+P0287,Farm Operation 287,South,Poultry,474,2024,No
+P0288,Farm Operation 288,South,Beef Cattle,4629,2023,Yes
+P0288,Farm Operation 288,South,Beef Cattle,4481,2024,Yes
+P0289,Farm Operation 289,Northeast,Dairy Cattle,392,2023,No
+P0289,Farm Operation 289,Northeast,Dairy Cattle,383,2024,No
+P0290,Farm Operation 290,South,Beef Cattle,1573,2023,Yes
+P0290,Farm Operation 290,South,Beef Cattle,1512,2024,Yes
+P0291,Farm Operation 291,West,Poultry,4147,2023,No
+P0291,Farm Operation 291,West,Poultry,3941,2024,No
+P0293,Farm Operation 293,Midwest,Swine,696,2023,Planned
+P0293,Farm Operation 293,Midwest,Swine,688,2024,Yes
+P0295,Farm Operation 295,Midwest,Poultry,1196,2023,No
+P0295,Farm Operation 295,Midwest,Poultry,1226,2024,No
+P0296,Farm Operation 296,Northeast,Swine,1669,2023,Planned
+P0296,Farm Operation 296,Northeast,Swine,1563,2024,Yes
+P0298,Farm Operation 298,West,Poultry,3391,2023,No
+P0298,Farm Operation 298,West,Poultry,3549,2024,No
+P0300,Farm Operation 300,West,Dairy Cattle,1448,2023,Planned
+P0300,Farm Operation 300,West,Dairy Cattle,1503,2024,Yes
+P0301,Farm Operation 301,Northeast,Poultry,1249,2023,No
+P0301,Farm Operation 301,Northeast,Poultry,1271,2024,No
+P0302,Farm Operation 302,West,Poultry,4341,2023,Yes
+P0302,Farm Operation 302,West,Poultry,3965,2024,Yes
+P0303,Farm Operation 303,Northeast,Beef Cattle,2856,2023,No
+P0303,Farm Operation 303,Northeast,Beef Cattle,2980,2024,No
+P0304,Farm Operation 304,South,Beef Cattle,2185,2023,Yes
+P0304,Farm Operation 304,South,Beef Cattle,2200,2024,Yes
+P0305,Farm Operation 305,West,Swine,2066,2023,No
+P0305,Farm Operation 305,West,Swine,2068,2024,No
+P0307,Farm Operation 307,West,Dairy Cattle,1778,2023,Planned
+P0307,Farm Operation 307,West,Dairy Cattle,1926,2024,Yes
+P0308,Farm Operation 308,Northeast,Beef Cattle,4031,2023,Planned
+P0308,Farm Operation 308,Northeast,Beef Cattle,3650,2024,Yes
+P0309,Farm Operation 309,Midwest,Poultry,2061,2023,No
+P0309,Farm Operation 309,Midwest,Poultry,2147,2024,No
+P0310,Farm Operation 310,Northeast,Dairy Cattle,3621,2023,Yes
+P0310,Farm Operation 310,Northeast,Dairy Cattle,3654,2024,Yes
+P0311,Farm Operation 311,West,Poultry,4314,2023,No
+P0311,Farm Operation 311,West,Poultry,4614,2024,No
+P0312,Farm Operation 312,South,Dairy Cattle,3108,2023,No
+P0312,Farm Operation 312,South,Dairy Cattle,3358,2024,No
+P0313,Farm Operation 313,Midwest,Poultry,2054,2023,No
+P0313,Farm Operation 313,Midwest,Poultry,2210,2024,No
+P0315,Farm Operation 315,South,Beef Cattle,3538,2023,No
+P0315,Farm Operation 315,South,Beef Cattle,3194,2024,No
+P0316,Farm Operation 316,South,Beef Cattle,1266,2023,Yes
+P0316,Farm Operation 316,South,Beef Cattle,1260,2024,Yes
+P0317,Farm Operation 317,South,Poultry,2658,2023,No
+P0317,Farm Operation 317,South,Poultry,2858,2024,No
+P0318,Farm Operation 318,South,Poultry,4746,2023,Yes
+P0318,Farm Operation 318,South,Poultry,4429,2024,Yes
+P0319,Farm Operation 319,Northeast,Poultry,638,2023,No
+P0319,Farm Operation 319,Northeast,Poultry,658,2024,No
+P0320,Farm Operation 320,West,Dairy Cattle,3963,2023,Planned
+P0320,Farm Operation 320,West,Dairy Cattle,4058,2024,Yes
+P0321,Farm Operation 321,Northeast,Beef Cattle,4249,2023,No
+P0321,Farm Operation 321,Northeast,Beef Cattle,4103,2024,No
+P0322,Farm Operation 322,West,Swine,444,2023,No
+P0322,Farm Operation 322,West,Swine,423,2024,No
+P0323,Farm Operation 323,Midwest,Poultry,2747,2023,Planned
+P0323,Farm Operation 323,Midwest,Poultry,3011,2024,Yes
+P0324,Farm Operation 324,Midwest,Dairy Cattle,1622,2023,No
+P0324,Farm Operation 324,Midwest,Dairy Cattle,1507,2024,No
+P0327,Farm Operation 327,West,Beef Cattle,2014,2023,No
+P0327,Farm Operation 327,West,Beef Cattle,1916,2024,No
+P0328,Farm Operation 328,Midwest,Poultry,2349,2023,Planned
+P0328,Farm Operation 328,Midwest,Poultry,2515,2024,Yes
+P0329,Farm Operation 329,South,Beef Cattle,137,2023,Yes
+P0329,Farm Operation 329,South,Beef Cattle,131,2024,Yes
+P0331,Farm Operation 331,Northeast,Beef Cattle,4317,2023,No
+P0331,Farm Operation 331,Northeast,Beef Cattle,4618,2024,No
+P0332,Farm Operation 332,South,Swine,672,2023,Yes
+P0332,Farm Operation 332,South,Swine,689,2024,Yes
+P0334,Farm Operation 334,South,Dairy Cattle,932,2023,Planned
+P0334,Farm Operation 334,South,Dairy Cattle,938,2024,Yes
+P0335,Farm Operation 335,Northeast,Dairy Cattle,4183,2023,Yes
+P0335,Farm Operation 335,Northeast,Dairy Cattle,4295,2024,Yes
+P0336,Farm Operation 336,Midwest,Swine,1894,2023,No
+P0336,Farm Operation 336,Midwest,Swine,2052,2024,No
+P0337,Farm Operation 337,Midwest,Poultry,729,2023,No
+P0337,Farm Operation 337,Midwest,Poultry,679,2024,No
+P0338,Farm Operation 338,West,Poultry,1290,2023,No
+P0338,Farm Operation 338,West,Poultry,1292,2024,No
+P0339,Farm Operation 339,South,Beef Cattle,4091,2023,Yes
+P0339,Farm Operation 339,South,Beef Cattle,3993,2024,Yes
+P0340,Farm Operation 340,South,Beef Cattle,2278,2023,Planned
+P0340,Farm Operation 340,South,Beef Cattle,2368,2024,Yes
+P0341,Farm Operation 341,Northeast,Dairy Cattle,1695,2023,Yes
+P0341,Farm Operation 341,Northeast,Dairy Cattle,1793,2024,Yes
+P0343,Farm Operation 343,West,Dairy Cattle,229,2023,Yes
+P0343,Farm Operation 343,West,Dairy Cattle,216,2024,Yes
+P0344,Farm Operation 344,West,Dairy Cattle,2466,2023,Yes
+P0344,Farm Operation 344,West,Dairy Cattle,2305,2024,Yes
+P0345,Farm Operation 345,Midwest,Poultry,968,2023,Yes
+P0345,Farm Operation 345,Midwest,Poultry,1040,2024,Yes
+P0347,Farm Operation 347,South,Beef Cattle,1287,2023,Yes
+P0347,Farm Operation 347,South,Beef Cattle,1378,2024,Yes
+P0348,Farm Operation 348,West,Dairy Cattle,4240,2023,Planned
+P0348,Farm Operation 348,West,Dairy Cattle,4025,2024,Yes
+P0349,Farm Operation 349,West,Swine,4457,2023,Yes
+P0349,Farm Operation 349,West,Swine,4495,2024,Yes
+P0351,Farm Operation 351,Northeast,Poultry,2001,2023,Planned
+P0351,Farm Operation 351,Northeast,Poultry,1958,2024,Yes
+P0352,Farm Operation 352,Northeast,Beef Cattle,3820,2023,Yes
+P0352,Farm Operation 352,Northeast,Beef Cattle,3881,2024,Yes
+P0353,Farm Operation 353,South,Beef Cattle,4476,2023,Planned
+P0353,Farm Operation 353,South,Beef Cattle,4657,2024,Yes
+P0354,Farm Operation 354,Midwest,Swine,1928,2023,Planned
+P0354,Farm Operation 354,Midwest,Swine,1897,2024,Yes
+P0355,Farm Operation 355,South,Poultry,4081,2023,Planned
+P0355,Farm Operation 355,South,Poultry,4353,2024,Yes
+P0356,Farm Operation 356,West,Dairy Cattle,2163,2023,Planned
+P0356,Farm Operation 356,West,Dairy Cattle,2211,2024,Yes
+P0358,Farm Operation 358,Midwest,Swine,123,2023,Planned
+P0358,Farm Operation 358,Midwest,Swine,111,2024,Yes
+P0360,Farm Operation 360,Midwest,Dairy Cattle,4462,2023,Planned
+P0360,Farm Operation 360,Midwest,Dairy Cattle,4718,2024,Yes
+P0361,Farm Operation 361,West,Beef Cattle,1040,2023,Planned
+P0361,Farm Operation 361,West,Beef Cattle,1023,2024,Yes
+P0362,Farm Operation 362,Northeast,Dairy Cattle,3078,2023,No
+P0362,Farm Operation 362,Northeast,Dairy Cattle,3336,2024,No
+P0363,Farm Operation 363,Midwest,Dairy Cattle,619,2023,Planned
+P0363,Farm Operation 363,Midwest,Dairy Cattle,609,2024,Yes
+P0365,Farm Operation 365,South,Swine,1690,2023,No
+P0365,Farm Operation 365,South,Swine,1568,2024,No
+P0366,Farm Operation 366,Northeast,Dairy Cattle,3487,2023,Planned
+P0366,Farm Operation 366,Northeast,Dairy Cattle,3432,2024,Yes
+P0367,Farm Operation 367,West,Poultry,3647,2023,Planned
+P0367,Farm Operation 367,West,Poultry,3381,2024,Yes
+P0369,Farm Operation 369,Northeast,Swine,4672,2023,Planned
+P0369,Farm Operation 369,Northeast,Swine,4252,2024,Yes
+P0370,Farm Operation 370,South,Swine,371,2023,No
+P0370,Farm Operation 370,South,Swine,355,2024,No
+P0371,Farm Operation 371,West,Poultry,1654,2023,Yes
+P0371,Farm Operation 371,West,Poultry,1556,2024,Yes
+P0372,Farm Operation 372,West,Poultry,3314,2023,No
+P0372,Farm Operation 372,West,Poultry,3325,2024,No
+P0373,Farm Operation 373,South,Swine,211,2023,Planned
+P0373,Farm Operation 373,South,Swine,205,2024,Yes
+P0374,Farm Operation 374,Midwest,Beef Cattle,4214,2023,No
+P0374,Farm Operation 374,Midwest,Beef Cattle,3845,2024,No
+P0376,Farm Operation 376,South,Beef Cattle,2150,2023,No
+P0376,Farm Operation 376,South,Beef Cattle,2094,2024,No
+P0377,Farm Operation 377,Midwest,Dairy Cattle,1002,2023,Planned
+P0377,Farm Operation 377,Midwest,Dairy Cattle,1082,2024,Yes
+P0378,Farm Operation 378,Northeast,Poultry,1509,2023,No
+P0378,Farm Operation 378,Northeast,Poultry,1451,2024,No
+P0379,Farm Operation 379,Midwest,Dairy Cattle,4944,2023,No
+P0379,Farm Operation 379,Midwest,Dairy Cattle,5312,2024,No
+P0380,Farm Operation 380,West,Beef Cattle,3747,2023,No
+P0380,Farm Operation 380,West,Beef Cattle,3975,2024,No
+P0381,Farm Operation 381,South,Beef Cattle,1243,2023,Planned
+P0381,Farm Operation 381,South,Beef Cattle,1143,2024,Yes
+P0382,Farm Operation 382,South,Dairy Cattle,3915,2023,Planned
+P0382,Farm Operation 382,South,Dairy Cattle,4095,2024,Yes
+P0383,Farm Operation 383,West,Beef Cattle,194,2023,No
+P0383,Farm Operation 383,West,Beef Cattle,203,2024,No
+P0384,Farm Operation 384,South,Dairy Cattle,3214,2023,Planned
+P0384,Farm Operation 384,South,Dairy Cattle,3258,2024,Yes
+P0386,Farm Operation 386,Northeast,Poultry,3891,2023,No
+P0386,Farm Operation 386,Northeast,Poultry,3735,2024,No
+P0387,Farm Operation 387,South,Dairy Cattle,4942,2023,No
+P0387,Farm Operation 387,South,Dairy Cattle,5204,2024,No
+P0388,Farm Operation 388,West,Dairy Cattle,238,2023,Yes
+P0388,Farm Operation 388,West,Dairy Cattle,241,2024,Yes
+P0389,Farm Operation 389,South,Beef Cattle,3805,2023,Yes
+P0389,Farm Operation 389,South,Beef Cattle,3844,2024,Yes
+P0390,Farm Operation 390,West,Swine,1693,2023,No
+P0390,Farm Operation 390,West,Swine,1853,2024,No
+P0391,Farm Operation 391,Northeast,Beef Cattle,3341,2023,Planned
+P0391,Farm Operation 391,Northeast,Beef Cattle,3525,2024,Yes
+P0392,Farm Operation 392,Midwest,Swine,3130,2023,Yes
+P0392,Farm Operation 392,Midwest,Swine,3223,2024,Yes
+P0393,Farm Operation 393,South,Dairy Cattle,2904,2023,No
+P0393,Farm Operation 393,South,Dairy Cattle,3084,2024,No
+P0394,Farm Operation 394,South,Poultry,3241,2023,No
+P0394,Farm Operation 394,South,Poultry,3396,2024,No
+P0395,Farm Operation 395,Midwest,Dairy Cattle,856,2023,No
+P0395,Farm Operation 395,Midwest,Dairy Cattle,872,2024,No
+P0396,Farm Operation 396,Northeast,Swine,4539,2023,No
+P0396,Farm Operation 396,Northeast,Swine,4424,2024,No
+P0397,Farm Operation 397,West,Swine,2947,2023,Planned
+P0397,Farm Operation 397,West,Swine,2849,2024,Yes
+P0398,Farm Operation 398,Midwest,Beef Cattle,806,2023,Yes
+P0398,Farm Operation 398,Midwest,Beef Cattle,804,2024,Yes
+P0399,Farm Operation 399,West,Swine,1058,2023,Yes
+P0399,Farm Operation 399,West,Swine,1050,2024,Yes
+P0400,Farm Operation 400,Midwest,Poultry,2637,2023,Yes
+P0400,Farm Operation 400,Midwest,Poultry,2564,2024,Yes
+P0401,Farm Operation 401,Northeast,Beef Cattle,1531,2023,Planned
+P0401,Farm Operation 401,Northeast,Beef Cattle,1563,2024,Yes
+P0402,Farm Operation 402,Midwest,Dairy Cattle,2823,2023,No
+P0402,Farm Operation 402,Midwest,Dairy Cattle,3053,2024,No
+P0403,Farm Operation 403,South,Poultry,1580,2023,Yes
+P0403,Farm Operation 403,South,Poultry,1679,2024,Yes
+P0404,Farm Operation 404,West,Swine,4703,2023,No
+P0404,Farm Operation 404,West,Swine,4279,2024,No
+P0405,Farm Operation 405,West,Swine,3081,2023,No
+P0405,Farm Operation 405,West,Swine,2927,2024,No
+P0406,Farm Operation 406,South,Beef Cattle,1601,2023,No
+P0406,Farm Operation 406,South,Beef Cattle,1547,2024,No
+P0407,Farm Operation 407,West,Swine,2653,2023,No
+P0407,Farm Operation 407,West,Swine,2635,2024,No
+P0408,Farm Operation 408,West,Poultry,4032,2023,Planned
+P0408,Farm Operation 408,West,Poultry,3967,2024,Yes
+P0409,Farm Operation 409,Northeast,Beef Cattle,4902,2023,Planned
+P0409,Farm Operation 409,Northeast,Beef Cattle,5312,2024,Yes
+P0410,Farm Operation 410,South,Beef Cattle,4421,2023,Planned
+P0410,Farm Operation 410,South,Beef Cattle,4280,2024,Yes
+P0411,Farm Operation 411,West,Swine,4042,2023,Planned
+P0411,Farm Operation 411,West,Swine,4010,2024,Yes
+P0413,Farm Operation 413,South,Beef Cattle,2543,2023,No
+P0413,Farm Operation 413,South,Beef Cattle,2692,2024,No
+P0414,Farm Operation 414,West,Beef Cattle,1197,2023,Planned
+P0414,Farm Operation 414,West,Beef Cattle,1161,2024,Yes
+P0415,Farm Operation 415,Midwest,Beef Cattle,3582,2023,Yes
+P0415,Farm Operation 415,Midwest,Beef Cattle,3813,2024,Yes
+P0416,Farm Operation 416,South,Poultry,2368,2023,Planned
+P0416,Farm Operation 416,South,Poultry,2308,2024,Yes
+P0417,Farm Operation 417,Northeast,Poultry,3112,2023,Yes
+P0417,Farm Operation 417,Northeast,Poultry,3376,2024,Yes
+P0418,Farm Operation 418,Northeast,Poultry,603,2023,Planned
+P0418,Farm Operation 418,Northeast,Poultry,555,2024,Yes
+P0419,Farm Operation 419,West,Poultry,4960,2023,Planned
+P0419,Farm Operation 419,West,Poultry,4540,2024,Yes
+P0421,Farm Operation 421,Midwest,Poultry,1355,2023,Planned
+P0421,Farm Operation 421,Midwest,Poultry,1382,2024,Yes
+P0422,Farm Operation 422,West,Poultry,2045,2023,Yes
+P0422,Farm Operation 422,West,Poultry,2123,2024,Yes
+P0424,Farm Operation 424,West,Beef Cattle,4757,2023,Yes
+P0424,Farm Operation 424,West,Beef Cattle,5153,2024,Yes
+P0425,Farm Operation 425,South,Poultry,3882,2023,No
+P0425,Farm Operation 425,South,Poultry,3824,2024,No
+P0426,Farm Operation 426,South,Dairy Cattle,2039,2023,Planned
+P0426,Farm Operation 426,South,Dairy Cattle,2182,2024,Yes
+P0427,Farm Operation 427,West,Beef Cattle,604,2023,No
+P0427,Farm Operation 427,West,Beef Cattle,653,2024,No
+P0428,Farm Operation 428,Midwest,Swine,3060,2023,No
+P0428,Farm Operation 428,Midwest,Swine,3018,2024,No
+P0429,Farm Operation 429,Midwest,Swine,2203,2023,Planned
+P0429,Farm Operation 429,Midwest,Swine,2136,2024,Yes
+P0430,Farm Operation 430,Midwest,Swine,3644,2023,No
+P0430,Farm Operation 430,Midwest,Swine,3679,2024,No
+P0431,Farm Operation 431,South,Dairy Cattle,1794,2023,No
+P0431,Farm Operation 431,South,Dairy Cattle,1972,2024,No
+P0432,Farm Operation 432,West,Poultry,1439,2023,Yes
+P0432,Farm Operation 432,West,Poultry,1347,2024,Yes
+P0433,Farm Operation 433,Northeast,Poultry,805,2023,No
+P0433,Farm Operation 433,Northeast,Poultry,860,2024,No
+P0434,Farm Operation 434,Northeast,Dairy Cattle,114,2023,No
+P0434,Farm Operation 434,Northeast,Dairy Cattle,104,2024,No
+P0435,Farm Operation 435,West,Beef Cattle,1813,2023,No
+P0435,Farm Operation 435,West,Beef Cattle,1764,2024,No
+P0436,Farm Operation 436,Midwest,Poultry,78,2023,Planned
+P0436,Farm Operation 436,Midwest,Poultry,73,2024,Yes
+P0437,Farm Operation 437,South,Swine,1810,2023,No
+P0437,Farm Operation 437,South,Swine,1711,2024,No
+P0438,Farm Operation 438,Northeast,Swine,3969,2023,Planned
+P0438,Farm Operation 438,Northeast,Swine,4235,2024,Yes
+P0439,Farm Operation 439,Midwest,Beef Cattle,1874,2023,No
+P0439,Farm Operation 439,Midwest,Beef Cattle,1884,2024,No
+P0441,Farm Operation 441,West,Poultry,1359,2023,No
+P0441,Farm Operation 441,West,Poultry,1337,2024,No
+P0442,Farm Operation 442,West,Swine,3223,2023,No
+P0442,Farm Operation 442,West,Swine,3127,2024,No
+P0443,Farm Operation 443,Northeast,Beef Cattle,2273,2023,Yes
+P0443,Farm Operation 443,Northeast,Beef Cattle,2415,2024,Yes
+P0444,Farm Operation 444,Midwest,Beef Cattle,1874,2023,Yes
+P0444,Farm Operation 444,Midwest,Beef Cattle,1870,2024,Yes
+P0445,Farm Operation 445,Northeast,Dairy Cattle,4624,2023,Yes
+P0445,Farm Operation 445,Northeast,Dairy Cattle,4422,2024,Yes
+P0446,Farm Operation 446,Midwest,Beef Cattle,4811,2023,Planned
+P0446,Farm Operation 446,Midwest,Beef Cattle,5079,2024,Yes
+P0447,Farm Operation 447,West,Beef Cattle,998,2023,No
+P0447,Farm Operation 447,West,Beef Cattle,903,2024,No
+P0448,Farm Operation 448,Northeast,Poultry,1683,2023,No
+P0448,Farm Operation 448,Northeast,Poultry,1555,2024,No
+P0449,Farm Operation 449,West,Poultry,4008,2023,Yes
+P0449,Farm Operation 449,West,Poultry,4061,2024,Yes
+P0452,Farm Operation 452,West,Beef Cattle,3321,2023,No
+P0452,Farm Operation 452,West,Beef Cattle,3047,2024,No
+P0453,Farm Operation 453,Midwest,Swine,2507,2023,No
+P0453,Farm Operation 453,Midwest,Swine,2450,2024,No
+P0455,Farm Operation 455,South,Dairy Cattle,2802,2023,Yes
+P0455,Farm Operation 455,South,Dairy Cattle,2739,2024,Yes
+P0456,Farm Operation 456,South,Swine,2056,2023,Planned
+P0456,Farm Operation 456,South,Swine,2026,2024,Yes
+P0457,Farm Operation 457,West,Swine,1096,2023,Planned
+P0457,Farm Operation 457,West,Swine,1171,2024,Yes
+P0458,Farm Operation 458,Midwest,Dairy Cattle,4047,2023,Planned
+P0458,Farm Operation 458,Midwest,Dairy Cattle,4145,2024,Yes
+P0459,Farm Operation 459,Northeast,Swine,2762,2023,Planned
+P0459,Farm Operation 459,Northeast,Swine,2937,2024,Yes
+P0460,Farm Operation 460,South,Beef Cattle,3273,2023,No
+P0460,Farm Operation 460,South,Beef Cattle,3102,2024,No
+P0461,Farm Operation 461,Northeast,Dairy Cattle,261,2023,No
+P0461,Farm Operation 461,Northeast,Dairy Cattle,262,2024,No
+P0463,Farm Operation 463,South,Dairy Cattle,2653,2023,No
+P0463,Farm Operation 463,South,Dairy Cattle,2762,2024,No
+P0464,Farm Operation 464,Midwest,Dairy Cattle,1504,2023,Yes
+P0464,Farm Operation 464,Midwest,Dairy Cattle,1396,2024,Yes
+P0465,Farm Operation 465,Midwest,Dairy Cattle,3786,2023,No
+P0465,Farm Operation 465,Midwest,Dairy Cattle,3945,2024,No
+P0466,Farm Operation 466,South,Beef Cattle,1751,2023,No
+P0466,Farm Operation 466,South,Beef Cattle,1801,2024,No
+P0467,Farm Operation 467,Northeast,Beef Cattle,3092,2023,Planned
+P0467,Farm Operation 467,Northeast,Beef Cattle,3357,2024,Yes
+P0468,Farm Operation 468,South,Poultry,3778,2023,Planned
+P0468,Farm Operation 468,South,Poultry,4054,2024,Yes
+P0469,Farm Operation 469,West,Poultry,1544,2023,No
+P0469,Farm Operation 469,West,Poultry,1635,2024,No
+P0470,Farm Operation 470,Northeast,Dairy Cattle,4647,2023,Planned
+P0470,Farm Operation 470,Northeast,Dairy Cattle,4690,2024,Yes
+P0471,Farm Operation 471,South,Poultry,1108,2023,No
+P0471,Farm Operation 471,South,Poultry,1026,2024,No
+P0472,Farm Operation 472,West,Dairy Cattle,338,2023,No
+P0472,Farm Operation 472,West,Dairy Cattle,340,2024,No
+P0473,Farm Operation 473,Midwest,Poultry,2248,2023,No
+P0473,Farm Operation 473,Midwest,Poultry,2231,2024,No
+P0474,Farm Operation 474,Midwest,Dairy Cattle,3967,2023,Yes
+P0474,Farm Operation 474,Midwest,Dairy Cattle,4121,2024,Yes
+P0475,Farm Operation 475,South,Beef Cattle,2183,2023,Yes
+P0475,Farm Operation 475,South,Beef Cattle,2351,2024,Yes
+P0476,Farm Operation 476,South,Poultry,291,2023,Yes
+P0476,Farm Operation 476,South,Poultry,282,2024,Yes
+P0477,Farm Operation 477,West,Swine,4370,2023,No
+P0477,Farm Operation 477,West,Swine,4028,2024,No
+P0479,Farm Operation 479,West,Poultry,815,2023,No
+P0479,Farm Operation 479,West,Poultry,770,2024,No
+P0480,Farm Operation 480,West,Swine,842,2023,Yes
+P0480,Farm Operation 480,West,Swine,780,2024,Yes
+P0481,Farm Operation 481,South,Beef Cattle,2842,2023,Planned
+P0481,Farm Operation 481,South,Beef Cattle,2620,2024,Yes
+P0484,Farm Operation 484,South,Dairy Cattle,1866,2023,Yes
+P0484,Farm Operation 484,South,Dairy Cattle,1794,2024,Yes
+P0486,Farm Operation 486,West,Beef Cattle,1289,2023,Yes
+P0486,Farm Operation 486,West,Beef Cattle,1313,2024,Yes
+P0487,Farm Operation 487,South,Beef Cattle,3482,2023,Yes
+P0487,Farm Operation 487,South,Beef Cattle,3416,2024,Yes
+P0488,Farm Operation 488,Midwest,Poultry,2435,2023,Yes
+P0488,Farm Operation 488,Midwest,Poultry,2219,2024,Yes
+P0489,Farm Operation 489,West,Swine,4859,2023,Planned
+P0489,Farm Operation 489,West,Swine,5145,2024,Yes
+P0490,Farm Operation 490,Northeast,Dairy Cattle,2866,2023,Yes
+P0490,Farm Operation 490,Northeast,Dairy Cattle,3141,2024,Yes
+P0493,Farm Operation 493,Northeast,Beef Cattle,3390,2023,Yes
+P0493,Farm Operation 493,Northeast,Beef Cattle,3481,2024,Yes
+P0494,Farm Operation 494,Northeast,Beef Cattle,4161,2023,Yes
+P0494,Farm Operation 494,Northeast,Beef Cattle,3989,2024,Yes
+P0495,Farm Operation 495,West,Poultry,2768,2023,No
+P0495,Farm Operation 495,West,Poultry,2794,2024,No
+P0496,Farm Operation 496,Midwest,Dairy Cattle,1186,2023,Yes
+P0496,Farm Operation 496,Midwest,Dairy Cattle,1269,2024,Yes
+P0497,Farm Operation 497,Northeast,Beef Cattle,3042,2023,Yes
+P0497,Farm Operation 497,Northeast,Beef Cattle,3331,2024,Yes
+P0498,Farm Operation 498,Northeast,Dairy Cattle,3666,2023,Planned
+P0498,Farm Operation 498,Northeast,Dairy Cattle,3568,2024,Yes
+P0499,Farm Operation 499,West,Swine,4903,2023,No
+P0499,Farm Operation 499,West,Swine,4441,2024,No
+P0500,Farm Operation 500,West,Dairy Cattle,2244,2023,Yes
+P0500,Farm Operation 500,West,Dairy Cattle,2060,2024,Yes

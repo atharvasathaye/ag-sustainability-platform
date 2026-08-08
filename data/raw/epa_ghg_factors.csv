@@ -1,0 +1,17 @@
+livestock_type,region,emissions_factor_mt_co2e_per_head
+Dairy Cattle,Midwest,4.658
+Dairy Cattle,South,4.403
+Dairy Cattle,West,4.883
+Dairy Cattle,Northeast,4.472
+Beef Cattle,Midwest,2.989
+Beef Cattle,South,2.626
+Beef Cattle,West,2.604
+Beef Cattle,Northeast,3.0
+Swine,Midwest,0.813
+Swine,South,0.79
+Swine,West,0.817
+Swine,Northeast,0.777
+Poultry,Midwest,0.054
+Poultry,South,0.053
+Poultry,West,0.048
+Poultry,Northeast,0.053

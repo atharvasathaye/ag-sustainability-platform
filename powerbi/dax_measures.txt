@@ -1,0 +1,31 @@
+// Power BI DAX Measures for Agricultural Sustainability Reporting Platform
+
+// 1. Total Emissions (MT CO2e)
+Total Emissions = SUM(fact_emissions[total_emissions_mt_co2e])
+
+// 2. Total Head Count
+Total Head Count = SUM(fact_emissions[head_count])
+
+// 3. Emissions Intensity (MT CO2e per Head)
+// Calculates the average emissions footprint per animal, avoiding divide-by-zero errors.
+Emissions Intensity = DIVIDE([Total Emissions], [Total Head Count], 0)
+
+// 4. Producers with Intervention
+Producers with Intervention = 
+CALCULATE(
+    DISTINCTCOUNT(fact_emissions[producer_id]),
+    fact_emissions[program_intervention_adopted] = "Yes"
+)
+
+// 5. Total Active Producers
+Total Active Producers = DISTINCTCOUNT(fact_emissions[producer_id])
+
+// 6. % Intervention Adoption Rate
+// Shows the percentage of producers who have adopted sustainability interventions.
+Intervention Adoption Rate = DIVIDE([Producers with Intervention], [Total Active Producers], 0)
+
+// 7. Year-over-Year Emissions Change
+YoY Emissions Change = 
+VAR CurrentEmissions = [Total Emissions]
+VAR PreviousEmissions = CALCULATE([Total Emissions], SAMEPERIODLASTYEAR(dim_date[Date]))
+RETURN DIVIDE(CurrentEmissions - PreviousEmissions, PreviousEmissions, 0)
